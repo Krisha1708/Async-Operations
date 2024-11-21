@@ -25,4 +25,4 @@ function calculate(num1, num2){
 }
 
 // Test the calculate function with 5 & 3
-calculate(5,3);
+calculate(4,7);
